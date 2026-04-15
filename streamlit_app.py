@@ -244,7 +244,7 @@ def render_hero():
   <div style="color:#00e5ff;font-size:0.7rem;margin:1rem 0;letter-spacing:0.08em">
     U.S. CENSUS ACS 2023 · AI-POWERED TRANSPORTATION ANALYSIS
   </div>
-  <div style="color:#444;font-size:0.6rem">DIVYANSH SINGH &amp; AYAANSH ARORA</div>
+  <div style="color:#444;font-size:0.6rem">AYAANSH ARORA &amp; DIVYANSH SINGH</div>
   <div style="display:flex;justify-content:center;gap:2.5rem;margin-top:2rem;flex-wrap:wrap">
     <div style="text-align:center">
       <div style="color:#00ff41;font-family:'Press Start 2P',monospace;font-size:1rem">162.4M</div>
