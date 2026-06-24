@@ -242,7 +242,7 @@ def render_hero():
     COMMUTE<br>PREDICTOR
   </h1>
   <div style="color:#00e5ff;font-size:0.7rem;margin:1rem 0;letter-spacing:0.08em">
-    U.S. CENSUS ACS 2023 · AI-POWERED TRANSPORTATION ANALYSIS
+    U.S. CENSUS ACS 2023 · DETAILED TRANSPORTATION ANALYSIS
   </div>
   <div style="color:#444;font-size:0.6rem">AYAANSH ARORA &amp; DIVYANSH SINGH</div>
   <div style="display:flex;justify-content:center;gap:2.5rem;margin-top:2rem;flex-wrap:wrap">
